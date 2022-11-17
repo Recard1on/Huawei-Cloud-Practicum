@@ -1,0 +1,1 @@
+Huawei Cloud Practicum'da Yapılan Eğitimlerden sonra yapılacak olan final case buraya yüklenecek 
